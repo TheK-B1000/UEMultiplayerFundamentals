@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\k-b\\desktop\\k-b folder\\unreal\\unrealmultiplayer\\multiplayercourse\\source\\multiplayercourse\\multiplayercourse.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\k-b\\desktop\\k-b folder\\unreal\\unrealmultiplayer\\multiplayercourse\\intermediate\\build\\win64\\x64\\multiplayercourseeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\k-b\\desktop\\k-b folder\\unreal\\unrealmultiplayer\\multiplayercourse\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayercourse\\definitions.multiplayercourse.h",
+            "c:\\users\\k-b\\desktop\\k-b folder\\unreal\\unrealmultiplayer\\multiplayercourse\\source\\multiplayercourse\\multiplayercourse.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\K-B\\Desktop\\K-B Folder\\Unreal\\UnrealMultiplayer\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourse.Build.cs",
+		"C:\\Users\\K-B\\Desktop\\K-B Folder\\Unreal\\UnrealMultiplayer\\MultiplayerCourse\\Source\\MultiplayerCourse.Target.cs",
+		"C:\\Users\\K-B\\Desktop\\K-B Folder\\Unreal\\UnrealMultiplayer\\MultiplayerCourse\\Source\\MultiplayerCourseEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

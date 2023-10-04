@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerCourse.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\MultiplayerCourseEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourse.init.gen.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourseCharacter.gen.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourseGameMode.gen.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourse.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourseCharacter.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\MultiplayerCourseGameMode.cpp.obj"
+"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\Default.rc2.res"
+/OUT:"C:\Users\K-B\Desktop\K-B Folder\Unreal\UnrealMultiplayer\MultiplayerCourse\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerCourse\UnrealEditor-MultiplayerCourse.lib"
